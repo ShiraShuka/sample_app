@@ -1,3 +1,7 @@
+
+This is my first app in ruby!
+Build by the tutorial of (http://railstutorial.org/)
+
 == README
 
 This README would normally document whatever steps are necessary to get the
