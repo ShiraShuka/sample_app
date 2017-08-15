@@ -5,5 +5,9 @@ class ApplicationController < ActionController::Base
   #change on master
   protect_from_forgery with: :exception
 
+<<<<<<< HEAD
   #change on sec branch
+=======
+  #git change
+>>>>>>> better name
 end
