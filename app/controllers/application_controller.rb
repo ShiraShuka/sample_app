@@ -4,4 +4,6 @@ class ApplicationController < ActionController::Base
 
   #change on master
   protect_from_forgery with: :exception
+
+  #change on sec branch
 end
