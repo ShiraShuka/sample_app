@@ -10,4 +10,6 @@ class ApplicationController < ActionController::Base
 =======
   #git change
 >>>>>>> better name
+
+#myBranch2
 end
